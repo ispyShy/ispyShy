@@ -15,10 +15,11 @@
 <br>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=667EEA&background=0D1117&vCenter=true&width=435&lines=>+initialize+IspyShy;>+compiling+Go+microservices...;>+deploying+to+aws...;>+system+status:+online!" alt="Typing SVG Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=667EEA&background=0D1117&vCenter=true&width=435&lines=>+initialize+ispyShy;>+building+scalable+apis...;>+deploying+systems...;>+system+status:+online!" alt="Typing SVG Terminal" />
 </p>
 
 > *i break codes until they start working*
+
 <br>
 
 <b>current focus</b>
@@ -38,7 +39,7 @@
 <br>
 
 <a href="https://discord.com/users/405668313105039370" target="_blank">
-  <img src="https://lanyard.cnrad.dev/api/405668313105039370?theme=dark&bg=282A36&borderRadius=15px&animated=true" align="right" width="250" alt="discord presence" />
+  <img src="https://lanyard.cnrad.dev/api/405668313105039370?theme=dark&bg=0D1117&borderRadius=15px&animated=true" align="right" width="250" alt="discord presence" />
 </a>
 
 <b>workspace & tools</b>
@@ -47,11 +48,7 @@
 &nbsp;›&nbsp; editor: <b>vs code</b><br>
 &nbsp;›&nbsp; terminal: <b>powershell</b>
 
-<br>
-
-
-
-<br clear="all">
+<br><br><br clear="all">
 
 ---
 
@@ -62,12 +59,12 @@
   <summary><b>&nbsp;›&nbsp; backend & scripting</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   </p>
 </details>
 
@@ -75,11 +72,11 @@
   <summary><b>&nbsp;›&nbsp; databases & caching</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/turso-%234FC1C9.svg?style=for-the-badge&logoColor=white" alt="Turso" />
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/turso-%234FC1C9.svg?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   </p>
 </details>
 
@@ -87,9 +84,9 @@
   <summary><b>&nbsp;›&nbsp; frontend & frameworks</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </p>
 </details>
 
@@ -97,11 +94,11 @@
   <summary><b>&nbsp;›&nbsp; devops, cloud & deployments</b></summary>
   <br>
   <p align="left">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 </details>
 
@@ -111,6 +108,7 @@
 
 <b>github stats</b>
 <br><br>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuego69&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakNum=667EEA" alt="Fuego69 streak" />
+  <img src="https://streak-stats.demolab.com?user=ispyShy&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakNum=667EEA" />
 </p>
