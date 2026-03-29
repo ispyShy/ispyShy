@@ -110,5 +110,5 @@
 <br><br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ispyShy&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakNum=667EEA" />
+  <img src="https://streak-stats.demolab.com?user=ispySHY&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakNum=667EEA" />
 </p>
